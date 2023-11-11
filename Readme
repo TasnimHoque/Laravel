@@ -1,0 +1,4 @@
+To Create a new Laravel application : composer create-project --prefer-dist laravel/laravel your-project-name
+To Generate UserController using Artisan: cd your-project-name
+To Generate UserController using Artisan: cd your-project-name
+UserController: php artisan make:controller UserController
