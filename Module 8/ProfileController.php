@@ -7,11 +7,11 @@ class ProfileController extends Controller
 {
     public function index($id)
     {
-        // Declare variables and assign values
+        
         $name = "Donal Trump";
         $age = "75";
 
-        // Add variables to $data as an associative array
+       
         $data = [
             'id' => $id,
             'name' => $name,
